@@ -15,8 +15,8 @@ function numbers(arr) {
     return false;
 }
 console.log(numbers([1, 2, 3,]));
-// This is a O(n). The runtime would increase as the array gets larger.
-// Extra credit: The space complexity is O(n) since the size of the set will increase proportionally with the growth of the array.
+// This is a O(n2). The runtime would increase as the array gets larger.
+// Extra credit: The space complexity is O(n2) since the size of the set will increase proportionally with the growth of the array.
 
 // 2) Unique Characters
 
